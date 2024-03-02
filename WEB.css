@@ -575,7 +575,7 @@ footer{
         height: 100vh;
     }
     .featured-name p{
-        font-size: 36px;
+        font-size: 34px;
     }
     .featured-text{
         width: 100%;
@@ -628,6 +628,9 @@ footer{
     }
     .about-info, .contact-info{
         width: 100%;
+    }
+    .contact-info p{
+        font-size: 14px;
     }
     .project-container{
         justify-content: center;
