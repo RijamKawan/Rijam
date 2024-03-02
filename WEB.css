@@ -452,6 +452,7 @@ span{
     border-radius: 10px;
     padding-inline: 20px;
     outline: none;
+    color: var(--text-color);
 }
 textarea{
     width: 100%;
